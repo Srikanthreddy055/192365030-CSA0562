@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Oracle flix Online Media Rentals" id="9BA29DDF-6E9D-A451-FD98-837DDF88C8D1" version="3.5">
+<createdBy>srika</createdBy>
+<createdTime>2024-08-07 03:02:10 UTC</createdTime>
+<ownerDesignName>Oracle flix Online Media Rentals</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9BA29DDF-6E9D-A451-FD98-837DDF88C8D1</designId>
+</OSDM_Design>
