@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="CouseREgistration" id="C78EC9AF-13A5-0A94-8E59-EFE0F3C98504" version="3.5">
+<createdBy>srika</createdBy>
+<createdTime>2024-08-02 03:48:24 UTC</createdTime>
+<ownerDesignName>CouseREgistration</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C78EC9AF-13A5-0A94-8E59-EFE0F3C98504</designId>
+</OSDM_Design>
